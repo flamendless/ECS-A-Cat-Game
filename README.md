@@ -5,4 +5,4 @@ Record/Replay System works:
   * Press P to start replaying
 
 See it in ACTION!
-[![yt-link](https://img.youtube.com/vi/watch?v=6uHazkCQpiM/0.jpg)](https://www.youtube.com/watch?v=6uHazkCQpiM)
+[![yt-link](https://img.youtube.com/6uHazkCQpiM/0.jpg)](https://www.youtube.com/watch?v=6uHazkCQpiM)
