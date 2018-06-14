@@ -1,0 +1,4 @@
+MAJOR TODOS!
+
+* Made a vector module for mobile:
+	- brinevector uses jit which is very slow in mobiles (according to trusted AuahDark)

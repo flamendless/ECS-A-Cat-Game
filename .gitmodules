@@ -1,0 +1,33 @@
+[submodule "flux"]
+	path = modules/flux
+	url = https://github.com/rxi/flux
+[submodule "lume"]
+	path = modules/lume
+	url = https://github.com/rxi/lume
+[submodule "lovedebug"]
+	path = modules/lovedebug
+	url = https://github.com/flamendless/lovedebug
+[submodule "modules/Concord"]
+	path = modules/Concord
+	url = http://github.com/Tjakka5/Concord
+[submodule "modules/brinevector"]
+	path = modules/brinevector
+	url = http://github.com/novemberisms/brinevector
+[submodule "modules/brinevector3D"]
+	path = modules/brinevector3D
+	url = http://github.com/flamendless/brinevector3D
+[submodule "modules/hump"]
+	path = modules/hump
+	url = http://github.com/vrld/hump
+[submodule "modules/bump-3dpd"]
+	path = modules/bump-3dpd
+	url = http://github.com/oniietzschan/bump-3dpd
+[submodule "modules/bump"]
+	path = modules/bump
+	url = http://github.com/kikito/bump.lua
+[submodule "modules/inspect"]
+	path = modules/inspect
+	url = http://github.com/kikito/inspect.lua
+[submodule "log"]
+	path = modules/log
+	url = https://github.com/rxi/log.lua
