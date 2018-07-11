@@ -1,6 +1,6 @@
 This is my first project to use ECS
 
-[![](https://tokei.rs/b1/github/flamendless/ECS-A-Cat-Game?category=lines)](https://github.com/flamendless/ECS-A-Cat-Game
+[![](https://tokei.rs/b1/github/flamendless/ECS-A-Cat-Game?category=lines)](https://github.com/flamendless/ECS-A-Cat-Game)
 
 Record/Replay System works:
   * Press R to start recording
